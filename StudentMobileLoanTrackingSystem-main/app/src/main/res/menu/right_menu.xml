@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+
+
+    <item android:id="@+id/item_user"
+        android:icon="@drawable/ic_user"
+        android:title="My Account"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/item_list"
+        android:icon="@drawable/ic_list"
+        android:title="Student List"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item_form"
+        android:icon="@drawable/ic_user"
+        android:title="Application Form"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item_passwrod"
+        android:title="Change Password"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item_logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+
+</menu>

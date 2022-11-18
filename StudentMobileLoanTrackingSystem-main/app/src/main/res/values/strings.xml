@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoanApp</string>
+    <string name="title_activity_bottom_navigation">bottom_navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="register"><u>Register</u></string>
+    <string name="alreadyaccount"><u>Already Have Account?</u></string>
+</resources>
